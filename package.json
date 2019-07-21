@@ -1,0 +1,23 @@
+{
+  "name": "psapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "glue": "^6.0.0",
+    "hapi": "^18.1.0",
+    "hapi-swagger": "^10.0.2",
+    "inert": "^5.1.3",
+    "mongoose": "^5.5.12",
+    "nodemon": "^1.19.1"
+  },
+  "devDependencies": {
+    "vision": "^5.4.4"
+  }
+}
